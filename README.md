@@ -7,7 +7,6 @@ Hey, my name is **Maxence**! I'm 15 years old, and I'm passionate about **cybers
 
 
 ## My OS
-![Linux](https://img.shields.io/badge/Linux-EndeavourOS-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-5A67D8?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
