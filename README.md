@@ -14,5 +14,3 @@ Hey, my name is **Maxence**! I'm 15 years old, and I'm passionate about **cybers
 If you want to contact me
 
 discord : tryhackme
-
-mail : uhq@tutamail.com
