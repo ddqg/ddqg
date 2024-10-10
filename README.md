@@ -1,16 +1,13 @@
-## Hiii
+# Hiii 👋
 
-<!--
-**ddqg/ddqg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, my name is **Maxence**! I'm 15 years old, and I'm passionate about **cybersecurity**, more specifically **web pentesting**.
 
-Here are some ideas to get you started:
+## CTF Account
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/your-profile.png)](https://tryhackme.com/p/your-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My OS
+![Linux](https://img.shields.io/badge/Linux-EndeavourOS-informational?style=for-the-badge&logo=linux&logoColor=white)
+
+
+---
