@@ -2,7 +2,8 @@
 
 15yo web pentesting enthusiast
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3489839" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3489839)
+
 
 
 ## CTF Accounts
