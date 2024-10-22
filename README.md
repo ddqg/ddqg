@@ -2,6 +2,8 @@
 
 15yo web pentesting enthusiast
 
+I'm learning Python and C
+
 ## CTF Accounts
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wakm)
 [![Root Me](https://img.shields.io/badge/Root%20Me-3E7BFF?style=for-the-badge&logo=root-me)](https://www.root-me.org/Max-925720)
