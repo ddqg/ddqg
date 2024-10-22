@@ -14,3 +14,5 @@ My name is Maxence, i'm 15 years old and i'm passionate about cybersecurity, mor
 If you want to contact me:
 
 **Discord**: tryhackme
+
+(I'm not a dev, will post scripts from time to time when i'm bored)
