@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Maxence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=A2D9FF&lines=Hello!+My+name+is+Maxence)](https://git.io/typing-svg)
 
 My name is Maxence, i'm 15 years old and i'm passionate about cybersecurity, more specifically pentest web
 
