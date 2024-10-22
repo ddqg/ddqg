@@ -2,8 +2,6 @@
 
 15yo web pentesting enthusiast
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3489839)
-
 
 
 ## CTF Accounts
