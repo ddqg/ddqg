@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A2D9FF&center=true&multiline=true&width=435&height=85&lines=Hello+!;My+name+is+Max+i'm+15yo;I+am+currently+learning+web+pentesting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=10&color=A2D9FF&center=true&multiline=true&width=475&height=85&lines=Hello+!;My+name+is+Max+i'm+15yo;I+am+currently+learning+web+pentesting)](https://git.io/typing-svg)
 
 ## CTF Accounts
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wakm)
