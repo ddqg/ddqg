@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=FFFFFF&lines=Hello!+My+name+is+Maxence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=FFFFFF&lines=Hello+!)](https://git.io/typing-svg)
 
 15yo web pentesting enthusiast
-
-I'm learning Python and C
 
 ## CTF Accounts
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wakm)
@@ -16,5 +14,3 @@ I'm learning Python and C
 If you want to contact me:
 
 **Discord**: tryhackme
-
-(I'm not a dev, will post scripts from time to time when i'm bored)
