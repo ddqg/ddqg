@@ -5,7 +5,7 @@
 [![Root Me](https://img.shields.io/badge/Root%20Me-3E7BFF?style=for-the-badge&logo=root-me)](https://www.root-me.org/Max-925720)
 
 ## My OS
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Endeavour-1793D1?style=for-the-badge&logo=Endeavour&logoColor=white)
 
 
 ---
