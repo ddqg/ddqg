@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
     char name[] = "Max";
     char nationality[] = "French";
     char hobbies[][20] = {"Music", "Cybersecurity"};
+    char learning[][20] = {"C", "OffensiveWeb"};
 
     return 0;
 }
