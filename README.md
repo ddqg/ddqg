@@ -2,6 +2,8 @@
 
 
 ```c
+#include <stdio.h>
+
 int main(int argc, char *argv[])
 {
     int age = 16;
@@ -10,5 +12,6 @@ int main(int argc, char *argv[])
     char hobbies[][20] = {"Music", "Cybersecurity"};
     char learning[][20] = {"C", "OffensiveWeb"};
 
+    printf("i love learning new thing and meet new people :D");
     return 0;
 }
