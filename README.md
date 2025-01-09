@@ -13,5 +13,6 @@ int main(int argc, char *argv[])
     char learning[][20] = {"C", "OffensiveWeb"};
 
     printf("i love learning new thing and meet new people :D");
+
     return 0;
 }
